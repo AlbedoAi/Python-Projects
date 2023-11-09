@@ -1,4 +1,3 @@
-# Author: Shubham Raturi
 # Details: This script allows you to triage a certain suspicous folder while analyzing its hash and copying its content to organize them by the same filetype in a different directory.
 
 #!/usr/bin/env python3

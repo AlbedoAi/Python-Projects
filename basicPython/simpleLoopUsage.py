@@ -1,6 +1,5 @@
 #If on linux use "#!/usr/bin/python3"
 
-# Author: Shubham Raturi
 # Details: This simple program is made through the given flowchart.
 # Resources: https://www.cs.siue.edu/programming-style-guide
 while(True):

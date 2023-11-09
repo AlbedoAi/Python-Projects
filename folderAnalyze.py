@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-# Author: Shubham Raturi
 # Details: This program goes thru a folder to find all files then filter them based on the date provided by the user.
 # Resources: https://www.cs.siue.edu/programming-style-guide
 

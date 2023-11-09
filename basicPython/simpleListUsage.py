@@ -1,6 +1,5 @@
 #If on linux use "#!/usr/bin/python3"
 
-# Author: Shubham Raturi
 # Details: This program just shows the basic immitation of the given program which just capitalizes the first name and last name also capitalizing the directory
 # Resources: https://www.cs.siue.edu/programming-style-guide
 

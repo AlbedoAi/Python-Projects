@@ -1,4 +1,3 @@
-# Author: Shubham Raturi
 # Details: This script allows you to automate a brute force attack against a user based on the password policy set by the company
 
 #!/usr/bin/env python3

@@ -1,6 +1,5 @@
 #If on linux use "#!/usr/bin/python3"
 
-# Author: Shubham Raturi
 # Details: To generate a random sequence from the entered range and pattern then find a reoccuring pattern in the sequence from the user input.
 # Resources: https://www.cs.siue.edu/programming-style-guide
 

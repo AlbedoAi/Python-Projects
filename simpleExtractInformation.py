@@ -1,6 +1,5 @@
 #If on linux use "#!/usr/bin/python3"
 
-# Author: Shubham Raturi
 # Details: To use a dictionary and its values to be inserted into another table via a module and sort the data with its section.
 # Resources: https://www.cs.siue.edu/programming-style-guide
 

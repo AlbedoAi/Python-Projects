@@ -1,6 +1,5 @@
 #If on linux use "#!/usr/bin/python3"
 
-# Author: Shubham Raturi
 # Details: This program just shows the basic immitation of the given program
 # Resources: https://www.cs.siue.edu/programming-style-guide
 
